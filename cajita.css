@@ -1,0 +1,19 @@
+#rojo{height: 300px;width: 400px; 
+    background-color: rgba(128, 0, 0, 0.891);
+    font-size: 32px;
+    border: 15px solid chocolate;
+    padding:40px ;
+    margin:50px ;
+    color: rgba(15, 61, 188, 0.876);
+    text-align: center;
+}
+
+#azul{height: 300px;width: 400px; 
+    background-color: rgba(15, 61, 188, 0.876);
+    font-size: 32px;
+    border:15px solid palegreen ;
+    padding:40px ;
+    margin:50px;
+    color: red;
+    text-align: center;
+}
